@@ -1,0 +1,5 @@
+/home/guru/eclipse-workspace/MapSideJoin/src/main/java/com/javamakeuse/bd/poc/MapSideJoin/App.java
+/home/guru/eclipse-workspace/MapSideJoin/src/main/java/com/javamakeuse/bd/poc/mapper/UserActivityMapper.java
+/home/guru/eclipse-workspace/MapSideJoin/src/main/java/com/javamakeuse/bd/poc/reducer/UserActivityReducer.java
+/home/guru/eclipse-workspace/MapSideJoin/src/main/java/com/javamakeuse/bd/poc/vo/UserActivityVO.java
+/home/guru/eclipse-workspace/MapSideJoin/src/main/java/com/javamakeuse/bd/poc/driver/UserActivityDriver.java
